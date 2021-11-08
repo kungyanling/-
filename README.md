@@ -1,4 +1,4 @@
-# Encyclopedia of constellation characteristics (星座特質小百科)
+# Encyclopedia of Constellation Characteristics (星座特質小百科)
 做了一個可以查看星座特質的小小圖形使用者介面，是有關於tkinter的練習
 
 ## 使用介紹
